@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am Ricardo. I love Developing Software. 
+
 🔭 I’m currently working on MyMetaverse.io and various open-source projects
 ⚡ Fun fact: Hate sleeping & Never stops learning
 📫 How to reach me: Twitter? @SiendoRicardo
