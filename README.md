@@ -8,7 +8,7 @@ I am Ricardo. I love Developing Software.
  
  📫 How to reach me: Twitter? @SiendoRicardo 
 
-[![Ricardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=RicardormDev&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Ricardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=siendoricardo&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **RicardormDev/RicardormDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
